@@ -20,4 +20,3 @@ Compile with Mix And Composer Autoload for PHP
 * Using zustand for state update
 * Using antd, axios, toastr. You can add or remove if you need
 
-

@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from 'react';
-import { Button } from 'shadcn-ui';
+import { Button } from "@/components/ui/button";
 
 const App = () => {
     return (
         <>
             <h1 className="text-3xl font-bold underline">
-                <Button variant="outline">Button</Button>
+                <Button >Button</Button>
             </h1>
         </>
     );
