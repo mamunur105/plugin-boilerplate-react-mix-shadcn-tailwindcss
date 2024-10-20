@@ -1,4 +1,10 @@
-# Wp Plugin Boilerplate React Js, zustand compile with Mix And Composer Autoload for PHP
+# Wp Plugin Boilerplate
+Compile with Mix And Composer Autoload for PHP
+
+* React Js
+* Zustand
+* shadcn
+* Tailwindcss
 
 ***Composer Command***
 
