@@ -564,3 +564,6 @@ video {
 .underline {
   text-decoration-line: underline;
 }
+.outline {
+  outline-style: solid;
+}
