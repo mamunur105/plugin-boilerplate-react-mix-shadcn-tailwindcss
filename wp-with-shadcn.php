@@ -1,6 +1,6 @@
 <?php
 /*
- * Plugin Name: Wp Shad CDN
+ * Plugin Name: Wp ShadCN
  */
 
 /**
